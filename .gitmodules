@@ -1,3 +1,6 @@
 [submodule "shodan_tools/shodan_raspi"]
 	path = shodan_tools/shodan_raspi
 	url = https://github.com/somu1795/shodan_raspi.git
+[submodule "shodan_tools/netwave_ip_camera_vulnerability"]
+	path = shodan_tools/netwave_ip_camera_vulnerability
+	url = https://github.com/somu1795/netwave_ip_camera_vulnerability
